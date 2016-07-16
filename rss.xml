@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[polemicist]]></title>
-        <description><![CDATA[polemicist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The scientific polemicist. ]]></title>
+        <description><![CDATA[The scientific polemicist. ]]></description>
+        <link>https://thegrid.ai/polemicist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 08:52:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 09:02:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/polemicist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>For those who doubt. </p>]]></description>
-            <link>undefinedfor-those-who-doubt/index.html</link>
+            <link>https://thegrid.ai/polemicist/for-those-who-doubt/index.html</link>
             <guid isPermaLink="false">0df1ae5b-c6e7-4a65-a6e9-6497b0b45a20</guid>
-            <pubDate>Sat, 16 Jul 2016 08:51:53 GMT</pubDate>
+            <pubDate>Sat, 16 Jul 2016 09:02:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
