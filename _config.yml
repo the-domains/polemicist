@@ -2,6 +2,7 @@ name: polemicist
 favicon: null
 layout_spectrum: 0.8181150862947106
 typography_spectrum: 0.5657469800207764
+title: 'The scientific polemicist. '
 cta:
   domain: null
   bucket: null
