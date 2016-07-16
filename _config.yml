@@ -1,4 +1,4 @@
-name: polemicist
+name: Polemicist
 favicon: null
 layout_spectrum: 0.8181150862947106
 typography_spectrum: 0.5657469800207764
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.42466735537163913
-  lightness: 0.6329973542597145
-  saturation: 0.02759606041945517
-  rhythmicContrast: 0.5838294341228902
+    - '#ffffff'
+    - '#ded3d9'
+    - '#6c4943'
+    - '#d26638'
+    - '#2b1917'
+  brandStrength: 0.6875
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
