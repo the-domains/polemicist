@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'For those who doubt. '
-datePublished: '2016-07-16T08:51:53.274Z'
-dateModified: '2016-07-16T08:51:33.460Z'
+datePublished: '2016-07-16T09:02:53.876Z'
+dateModified: '2016-07-16T09:02:42.040Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-16-for-those-who-doubt.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-16-for-those-who-doubt.md
+starred: true
 url: for-those-who-doubt/index.html
 _type: Article
 
