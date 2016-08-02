@@ -1,19 +1,21 @@
 analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#ded3d9'
-    - '#6c4943'
-    - '#d26638'
-    - '#2b1917'
-  brandStrength: 0.6875
-  lightness: 0.625
-  rhythmicContrast: 1
-  saturation: 0.375
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.6381959933787584
+  lightness: 0.5147680176887661
+  rhythmicContrast: 0.25820297794416547
+  saturation: 0.2127134040929377
 cta: {}
-layout_spectrum: 0.52027
+layout_spectrum: 0.2889756029471755
 name: Polemicist
 opengraph: {}
 purpose: []
 title: 'The scientific polemicist. '
-typography_spectrum: 0.91727
+typography_spectrum: 0.23469574563205242
+coverPrefs:
+  filter: false
