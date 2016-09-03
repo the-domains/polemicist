@@ -1,13 +1,15 @@
 ---
-author: []
-dateModified: '2016-07-17T08:53:21.956Z'
-datePublished: '2016-07-17T08:53:55.034Z'
-description: For those who doubt.
-hasPage: true
-inFeed: true
-inNav: false
 keywords: []
 title: ''
+datePublished: '2016-08-31T20:06:50.861Z'
+dateModified: '2016-08-31T20:06:43.600Z'
+publisher: {}
+author: []
+inFeed: true
+hasPage: true
+inNav: false
+description: For those who doubt.
+via: {}
 starred: true
 sourcePath: _posts/2016-07-16-for-those-who-doubt.md
 url: for-those-who-doubt/index.html
@@ -16,17 +18,13 @@ _type: Article
 ---
 For those who doubt.
 
-For those from rich or poor. 
-
-For the hopeless romantics.
-
-For the unknowingly majorly depressed.For those who sit in their rooms as social recluses during high school.For those who sit in their rooms as social recluses during high school.For those who sit in their rooms as social recluses during high school.
-
-* For those who sit in their rooms as social recluses during high school.
+For those from rich or poor.
 
 For the hopeless romantics.
 
 For the unknowingly majorly depressed.
+
+For those who sit in their rooms as social recluses during high school. 
 
 For the self deprecators.
 
